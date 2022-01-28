@@ -156,7 +156,7 @@ let foodArr = [
 //CODE HERE
 
 const filteredFood = foodArr.filter(element => element.tags.includes('Gluten Free Option'))
-//console.log(filteredFood);
+console.log(filteredFood);
 
 
 
@@ -203,8 +203,7 @@ const filteredFood = foodArr.filter(element => element.tags.includes('Gluten Fre
 const filterByProperty = (property, num, type) => {
 
     if(type === 'above'){
-        let thisArr = foodArr.filter(element => element[property]
-         >= num) 
+        let thisArr = foodArr.filter(element => element[property] >= num) 
         console.log(thisArr);
     }
     
