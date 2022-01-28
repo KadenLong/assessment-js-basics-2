@@ -70,8 +70,8 @@ console.log(pizza.tags[1]);
 */
 
 //CODE HERE
-let pizzaPrice = pizza.price;
-console.log(pizzaPrice);
+let {price} = pizza;
+console.log(price);
 
 /*
     Fourth, and last, destructure the category
@@ -81,8 +81,8 @@ console.log(pizzaPrice);
 */
 
 //CODE HERE
-let pizzaCategory = pizza.category;
-console.log(pizzaCategory);
+let {category} = pizza;
+console.log(category);
 
 //////////////////PROBLEM 3////////////////////
 /* 

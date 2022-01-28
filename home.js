@@ -87,7 +87,7 @@ const canWeDeliverTwo = (zipCode) => {
             control = true;
             i = deliveryAreaZipCodes.length
         }
-    }
+    }   
     if (control === true){
         console.log(`Your are in the delivery zone, get ready for pizza.`)
         i = deliveryAreaZipCodes.length
