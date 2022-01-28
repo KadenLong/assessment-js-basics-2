@@ -1,0 +1,20 @@
+Company 1 - Bethesda Games
+	Jobs posting for bethesda.net for Full Stack Developer
+	Html/Css/Javascript
+	Wants experience with Python or Go
+	Wants experience with React, Vue, or Angular
+	Wants experience with Docker & Sql/NoSql
+
+Company 2 - Playstation
+	Full Stack job posting
+	Intermediate knowledge of Python.
+	Intermediate knowledge of Angular, JavaScript, TypeScript, HTML, CSS.
+	Intermediate knowledge of Linux and Bash.
+I	ntermediate knowledge of Git.
+
+Company 3 - American Airlines
+	senior web applications job posting	
+	REST
+	Python, Node, FastAPI
+	Srum
+	
